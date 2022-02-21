@@ -1,2 +1,2 @@
 # python random password gen
-this is my first project so dont go too hard on me
+it's what it says it is
