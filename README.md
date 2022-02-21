@@ -1,1 +1,1 @@
-# python-random-password-gen
+# python random password gen
